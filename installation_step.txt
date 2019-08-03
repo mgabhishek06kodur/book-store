@@ -1,4 +1,6 @@
-sStep 1: Create a database name: "book_store"
+install wamp/xamp server
+place these folder in www in it.
+Step 1: Create a database name: "book_store"
 step 2: import "book_store.sql" file from database folder
 
 -+-+-++++++++++++++++++++++++++++++++++++++++++
